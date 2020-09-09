@@ -2,7 +2,7 @@
 
 **Doe-het-zelver**
 geïnteresseerd hoe alles in elkaar zit en werkt
-zou graag leren ontwerpen, om dan stickers van te maken of te lasercutten
+zou graag leren ontwerpen, om dan stickers van te maken of te lasercutten in hout of plexi
 
 ![beschrijving foto]({{ site.baseurl }}/assets/opdracht01/gereedschapskist.jpg)
 
