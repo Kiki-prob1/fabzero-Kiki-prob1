@@ -8,7 +8,7 @@ Zou graag leren ontwerpen, om dan stickers van te maken of te lasercutten in hou
 
 ![beschrijving foto]({{ site.baseurl }}/assets/opdracht01/gereedschapskist.jpg)
 
-foto in Opdrachten
+Foto in Opdrachten
 
 ![beschrijving foto]({{ site.baseurl }}/Opdrachten/opdracht01/gereedschapskist.jpg)
 
