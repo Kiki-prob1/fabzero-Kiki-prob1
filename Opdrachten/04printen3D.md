@@ -12,3 +12,4 @@ schets maken, tekening in Onshape, importeren naar Cura om te kunnen printen, SD
 ![beschrijving foto]({{ site.baseurl }}/assets/opdracht04/IMG_3435.jpg)
 ![beschrijving foto]({{ site.baseurl }}/assets/opdracht04/IMG_3436.jpg)
 ![beschrijving foto]({{ site.baseurl }}/assets/opdracht04/IMG_3437.jpg)
+![beschrijving foto]({{ site.baseurl }}/assets/opdracht04/IMG_3438.jpg)
