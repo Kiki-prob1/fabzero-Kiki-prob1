@@ -9,7 +9,7 @@ DXF
 Add on voor potlood 
 schets maken, tekening in Onshape, importeren naar Cura om te kunnen printen, SD-kaartje naar printer
 
-![beschrijving foto](opdracht04/IMG_3435.jpg)
-![beschrijving foto](opdracht04/IMG_3436.jpg)
-![beschrijving foto](opdracht04/IMG_3437.jpg)
-![beschrijving foto](opdracht04/IMG_3438.jpg)
+![beschrijving foto](opdracht04/IMG_3435.JPG)
+![beschrijving foto](opdracht04/IMG_3436.JPG)
+![beschrijving foto](opdracht04/IMG_3437.JPG)
+![beschrijving foto](opdracht04/IMG_3438.JPG)
