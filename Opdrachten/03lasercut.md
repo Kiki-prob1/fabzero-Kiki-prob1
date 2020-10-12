@@ -24,4 +24,4 @@ boxmaker Ignenio en aanpassen grootte indien je groter of kleiner wil gaan
 opletten dat dikte op 3mm staat, dikte van de MDF-plaat
 
 ![beschrijving foto]({{ site.baseurl }}/assets/opdracht03/MFAD8833.jpg)
-![beschrijving foto]({{ site.baseurl }}/assets/opdracht03/IMG_3434.JPG)
+![beschrijving foto]({{ site.baseurl }}/assets/opdracht03/IMG_3434.jpg)
