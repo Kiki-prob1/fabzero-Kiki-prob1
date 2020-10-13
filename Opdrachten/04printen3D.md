@@ -13,3 +13,6 @@ schets maken, tekening in Onshape, importeren naar Cura om te kunnen printen, SD
 ![beschrijving foto](opdracht04/IMG_3436.JPG)
 ![beschrijving foto](opdracht04/IMG_3437.JPG)
 ![beschrijving foto](opdracht04/IMG_3438.JPG)
+
+oefening koffiemok
+oefening fotokader
