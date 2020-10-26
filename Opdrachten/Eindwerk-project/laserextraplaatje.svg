@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="hubert3.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg943"
+   version="1.1"
+   viewBox="0 0 440 297"
+   height="297mm"
+   width="440mm">
+  <defs
+     id="defs937">
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX">
+      <path
+         id="path8819"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch">
+      <path
+         id="path8822"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path8824"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path8826"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <rect
+       x="64.144684"
+       y="65.213768"
+       width="34.210499"
+       height="11.759859"
+       id="rect8778" />
+    <marker
+       style="overflow:visible"
+       refY="0"
+       refX="0"
+       orient="auto"
+       id="DistanceX-2">
+      <path
+         id="path8819-0"
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 V 5" />
+    </marker>
+    <pattern
+       y="0"
+       x="0"
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       id="Hatch-3">
+      <path
+         id="path8822-7"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M8 4 l-4,4" />
+      <path
+         id="path8824-9"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M6 2 l-4,4" />
+      <path
+         id="path8826-0"
+         linecap="square"
+         stroke-width="0.25"
+         stroke="#000000"
+         d="M4 0 l-4,4" />
+    </pattern>
+    <rect
+       x="64.144684"
+       y="65.213768"
+       width="34.210499"
+       height="11.759859"
+       id="rect8778-3" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1027"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="g3051"
+     inkscape:document-units="mm"
+     inkscape:cy="141.05658"
+     inkscape:cx="923.48538"
+     inkscape:zoom="1.4"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata940">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Laag 1">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,103.46428,-238.61309)"
+       id="g1559">
+      <g
+         inkscape:label="0"
+         id="g1536" />
+      <g
+         id="g3051">
+        <text
+           xml:space="preserve"
+           style="font-size:192px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.999999"
+           x="1381.3573"
+           y="296.66846"
+           id="text6926"
+           transform="rotate(90)"><tspan
+             x="1381.3573"
+             y="296.66846"
+             style="stroke-width:0.999999"
+             id="tspan6930"
+             sodipodi:role="line" /></text>
+        <text
+           xml:space="preserve"
+           style="font-size:26.6667px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.999999"
+           x="824.02161"
+           y="-158.47874"
+           id="text6958"
+           transform="rotate(90)"><tspan
+             sodipodi:role="line"
+             id="tspan6956"
+             x="824.02161"
+             y="-158.47874"
+             style="stroke-width:0.999999" /></text>
+        <text
+           transform="matrix(0,3.7795276,-3.7795276,0,243.33157,644.21442)"
+           xml:space="preserve"
+           id="text8776"
+           style="font-size:7.05556px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';white-space:pre;shape-inside:url(#rect8778);" />
+        <path
+           d="m 290.63879,1075.0601 h 306.15536 v 11.1785 H 290.63879 Z"
+           style="fill:none;stroke:#ff0000;stroke-width:0.773922;stroke-opacity:1"
+           id="path1530" />
+        <rect
+           y="1033.2733"
+           x="231.09679"
+           height="91.428574"
+           width="422.85715"
+           id="rect866"
+           style="opacity:0.429487;fill:none;stroke:#ff0000;stroke-width:1.8897638;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+    </g>
+  </g>
+</svg>
