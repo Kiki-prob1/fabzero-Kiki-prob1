@@ -1,7 +1,17 @@
-# Git gebruiken
+# Git gebruiken door Catherine
 
-Opdracht: Gebruik Git om verslag bij te houden van je vooruitgang.
+**Doe-het-zelver**
 
-Stuur de link naar deze repo naar de FabZero verantwoordelijke.
+Geïnteresseerd hoe alles in elkaar zit en werkt
+
+Zou graag leren ontwerpen, om dan stickers van te maken of te lasercutten in hout of plexi
+
+![beschrijving foto]({{ site.baseurl }}/assets/opdracht01/gereedschapskist.jpg)
+
+Foto in Opdrachten
+
+![beschrijving foto]({{ site.baseurl }}/Opdrachten/opdracht01/gereedschapskist.jpg)
+
+Link naar [foto in Opdrachten]({{ site.baseurl }}/Opdrachten/opdracht01/gereedschapskist.jpg)
 
 source: `{{ page.path }}`
