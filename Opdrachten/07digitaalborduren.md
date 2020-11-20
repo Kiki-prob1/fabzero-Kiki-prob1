@@ -1,2 +1,3 @@
 # Digitaal borduren
 
+zie notitites
