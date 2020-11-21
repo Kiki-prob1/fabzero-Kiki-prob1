@@ -1,0 +1,110 @@
+# eindverslag
+
+Schets potloodtekening uitproberen
+tekening met Inkscape maken
+eerste poging
+tweede poging om te verbeteren
+andere benodigdheden nog uitzoeken
+uitleg vragen
+bespreken mogelijkheden
+schets op papier behuizing
+tekenen in Inkscape
+Nog iets maken om vooraan voor te zetten, vastkleven, om behuizing weg te steken, voor
+mooier te ogen?
+welke leds, bedrading, componenten, liefst werking met kabel en niet op batterijen indien
+mogelijk
+tekening Inkscape bijwerken met tekst, oog, schubben? Uitproberen verschillende versies
+Testen tot waar lichtinval zou lukken, hoogte bepalen
+Beslissen uiteindelijke tekening en verdere details bijzetten, afwerken
+Mogelijk om tweede tekening te maken zodat plexi kan gewisseld worden
+Andere versie Tribo of slang, …
+Voet blijft dezelfde, uiteinde dient gewoon hetzelfde te zijn van tekeninginsteek zodat erin
+past, ter afwisseling. Beste effect?
+20cm zal te hoog zijn om licht tot boven te laten opstralen, verder uitzoeken
+Behuizing getekend in Inskape, juist nog opening voorzien voor knopje on/off (maat nog
+nemen) Blokjes waar leds op moeten komen ook nog bekijken welke maat.
+Zijkant behuizing ook laseren, tekening nog op doosje plaatsen
+voorkant doosje met tekening apart om op vast te kleven zodat zwart van laseren verborgen
+zit?
+Mss nog grootte doosje aanpassen, aan de hand van hoe breed de leds zijn en tekening
+naargelang ook aanpassen
+behuizing zonder tekeningen op, nadien apart opkleven, om tandgroeven weg te steken,
+mooier uitzicht? ander formaat?
+verschillende tekeningen gemaakt met verscheidene opvulling
+voetje insteek nog bijtekenen, eerst weten hoe breed leds zijn die in doosje komen
+kader rond tekening uitsnijden
+op buitenlijn reptiel uitsnijden? moet voet dan even breed zijn of de breedste uiteinden of
+kan licht van smallere voet uitstralen? Ofwel enkel bovenkant en rechterzijde op vorm,
+linkerzijde en onderkant op lengte laten? zo is lichtbreedte opgelost?
+Plexi en andere benodigdheden voorzien, vraag stellen aan Hubert waar aanschaffen
+Wanneer materiaal beschikbaar is
+afspreken met wie voor begeleiding elektronica
+Eerst alle maten weten van al de componenten
+Proefversie behuizing laseren
+Kijken of alle elektronica er in kan, gaten op juiste plaats, enz.
+Voet tekening aanpassen naargelang gleuf behuizing doos
+blokje tekenen in 3D Tinkercad om onder arduino te plaatsen om evenwijdig te komen met
+uitsparing in doosje, printen
+ofwel opening lager plaatsen? Niet mooi omdat niet in midden is?
+latje waar ledjes op dienen te komen niet in zijkanten doosje vastmaken, op verhoging
+binnenin, nodige ondersteuning voorzien , voor uitzicht en kan dan binnenin op gewenste
+hoogte plaatsen zodat niet voor gaten van knoppen komt, handiger?
+Benodigdheden: 1 arduino nano, 1 weerstand, 1 condensator, 1 drukknop aan/uit, kabeltje
+usb om op te laden, 3 kleine korte kabeltjes om aan elkaar te solderen, ledstrip
+Plexi uit overschotten gemaakt. Grootte aangepast naargelang stukken die gevonden
+werden.
+Kabeltjes aan ledstrip solderen, eerst strippen met behulp van striptang, zwart GND, rood
+4-7VDC, wit DIN
+andere uiteinde kabeltjes aan Arduino vast maken, gaatje met vijsje in overeenstemmende
+GND, 5V, 3D
+nummer op strip opzoeken in google
+programma Arduino, digital button, volgens code
+met usb-kabel code uploaden via programma Arduino
+bijkomende bibliotheek die nodig is installeren
+port 13 Arduino nano, usb-kabel in pc en Arduino, programmeren
+met dank aan Hubert voor programmatie Arduino
+verder werken
+laseren tekening plexi, proeftest
+doosje laseren
+doosje lijmen, bovenkant los laten
+knopje aan/uit schuiver, verbinden met draadje pos, solderen
+extra plaatje met gleuf laseren voor stevigheid
+gleuf versmallen
+steunblokje, om arduino te verhogen op gelijke hoogte naar opening doosje, in 3D printen
+steuntjes aan elkaar kleven voor voetje om plaatje op te bevestigen waar ledjes op komen te
+liggen
+vastmaken ledjes met dubbelzijdige tape
+testen licht
+alles volledig monteren, bevestigen, voldoende vast en stevig maken
+doosje vernissen?
+nog andere tekeningen laseren in plexi om te kunnen wisselen
+acrylverf rondom kader voor special effect?
+laatste fase laseren plexi
+printje vastlijmen met hotglue, pootjes ledplaatje vastmaken met dubbelzijdige tape
+plexi afwassen
+Bijkomend idee: stoffen zakjes maken om plexi in op te bergen zodat beschermd is tegen
+krassen. Met Borduurmachine figuurtjes op naaien of stickeren. Tekeningen nog maken.
+Inkstitch werkt niet op mijn laptopje. Nog af te spreken wanneer pc mag gebruikt worden met
+borduurprogramma..
+Tekeningen dienen goed op voorhand gemaakt te worden, elke lijn die een ander kleur moet
+hebben, los van elkaar tekenen, niet groeperen, te weinig ervaring om dit op korte tijd te
+doen en dan nog te borduren, dus is simpele tekening geworden, indien ik het programma
+thuis had zou ik er wat beters van kunnen maken hebben, uitzoeken welke steek, welke
+dikte, welke richting, enz. Draadkleur van machine veranderen leren ondertussen. Tijd te
+kort op 2 uurtjes (op reservatie wegens lockdown). Maar toch meevallend redelijk gelukt het
+borduursel.
+Besluit: tekenen is basis van alles. Zonder goede tekening geraak je nergens.
+Verstevigingsplaatjes aaneen gelijmd met hotglue, kwam los met dubbelzijdige tape. Geen
+goed idee, verschoven, gleuf past nu niet meer. Opnieuw laseren en met houtlijm aan elkaar
+lijmen, stukje plexi in gleuf steken tijdens drogen, zodat mooi op plaats blijft en alles nadien
+nog past.
+plastiek op maat snijden om plexi in te steken, per plexi een plastiek omhulsel tegen
+krassen, vlekken van vingers wegkuisen, verscheidene plexi samen in stoffen zak ter
+bescherming om op te bergen.
+Bij nemen van foto’s merk ik als plexi helemaal tot einde tegen ledjes worden gestoken het
+minder oplicht, beter als plexi bijna gewoon bovenaan in gleuf zit, wordt dan wel helemaal
+belicht, wel onstabiel zo.
+Puntje om over na te denken en oplossing voor te zoeken bij een volgende samenstelling.
+Eindproduct: tevreden met het resultaat (volgens mijn kunnen, niveau, geen enkele
+basiskennis, alle lessen nieuw ) Geslaagd in wat ik wou bereiken (op zo korte tijd ).
+Interesse in Inkscape en laseren zullen zeker verder uitgediept worden
